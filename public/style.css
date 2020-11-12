@@ -1,6 +1,10 @@
 html, body {
     height: 100%;
   }
+  h2{
+    padding:2rem;
+    text-align: center;
+  }
   
   * {
     margin: 0;
